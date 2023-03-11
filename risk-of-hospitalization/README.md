@@ -3,8 +3,3 @@ Data Source: UCI Machine Learning Repository, https://archive.ics.uci.edu/ml/dat
 Steps:
 - Run hospitalization_data_prep.ipynb
 - Run hospitalization_model.ipynb
-
-ToDo:
-- model evaluation
-- optimization
-- saving and testing the model
